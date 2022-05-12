@@ -5,7 +5,7 @@ import Col from 'react-bootstrap/Col';
 import Card from 'react-bootstrap/Card';
 import { useEffect, useState } from "react";
 import { useNavigate, useParams } from 'react-router-dom';
-
+//
 
 const ViewReview = () => {
     const { id } = useParams();
